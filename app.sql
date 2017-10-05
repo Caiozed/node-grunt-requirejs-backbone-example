@@ -1,0 +1,10 @@
+-- create DATABASE App;
+-- use App;
+-- create table users(
+--                 id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+--                 name varchar(50)
+--                     );
+-- INSERT INTO users (id, name) VALUES (1, 'Zed');
+-- SELECT * FROM users;
+-- DROP TABLE users;
+-- SHOW TABLES;

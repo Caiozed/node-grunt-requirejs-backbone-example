@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.user{
+    margin: 30px 0;
+}
+
+.btn{
+    padding: 10px 30px;
+    background: cyan;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    transition: all .5s;
+    &:hover{
+        border: 1px solid blue;
+    }
+}
